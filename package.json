@@ -14,5 +14,8 @@
     "@magento/venia-ui": "*",
     "react": "~16.9.0",
     "react-router-dom": "~5.1.0"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
   }
 }
