@@ -1,0 +1,18 @@
+{
+  "name": "@larsroettig/venia-ui-overwrites",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Lars Roettig <l.roettig@techdivision.com>",
+  "license": "MIT",
+  "pwa-studio": {
+    "targets": {
+      "intercept": "intercept.js"
+    }
+  },
+  "peerDependencies": {
+    "@magento/pwa-buildpack": "*",
+    "@magento/venia-ui": "*",
+    "react": "~16.9.0",
+    "react-router-dom": "~5.1.0"
+  }
+}
